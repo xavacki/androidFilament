@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">17th Century Warship 3D</string>
+    <string name="title_warship">HMS Sovereign of the Seas (1637)</string>
+    <string name="subtitle_warship">17th Century Royal Navy First-Rate Ship of the Line</string>
+    <string name="desc_warship">Equipped with 102 bronze cannons, three full-rigged masts, billowed canvas sails, and a carved ornate stern castle. Rendered with Google Filament PBR engine.</string>
+    <string name="btn_broadside">Broadside</string>
+    <string name="btn_stern">Stern</string>
+    <string name="btn_deck">Decks</string>
+    <string name="btn_day_night">Lighting Mode</string>
+    <string name="btn_toggle_rocking">Toggle Waves</string>
+    <string name="btn_fire_cannons">FIRE CANNONS</string>
+</resources>

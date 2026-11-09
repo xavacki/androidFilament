@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nautical_navy">#FF0A192F</color>
+    <color name="nautical_gold">#FFD4AF37</color>
+    <color name="nautical_dark_gold">#FF996515</color>
+    <color name="ocean_blue">#FF005580</color>
+    <color name="overlay_background">#CC0D1B2A</color>
+    <color name="card_background">#E61B263B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
